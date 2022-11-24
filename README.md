@@ -128,7 +128,7 @@ If you want to know about me!
      - DB: postgresql 
      - DB Tool: DBeaver
 
-- 자세한 설명은 [이 github 그룹](https://github.com/CalyFactory)에 있습니다.
+- 자세한 설명은 [이 github 그룹](https://github.com/Web-Server-Project/hospital_management-)에 있습니다.
 
 
 
