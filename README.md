@@ -9,31 +9,29 @@ If you want to know about me!
 ![status](https://img.shields.io/badge/offer_welcome-brightgreen.svg)
 
 ## 소개
-![프로필이미지](https://github.com/JSpiner/RESUME/raw/master/images/profile.jpeg)
+![]<img src = "https://github.com/JavoXIN/RESUME/blob/main/java_info_pic/javo1.jpeg" width="350"/>
 - 이름: 자보히르
 - 군필여부: 없음
 - 취미: **자전거**, 사격, 등산, **카페코딩**, 달리기, 여행, 수영, PC 게임, 
 - Email: javohir.toshtemirov123@gmail.com
 - GitHub: [github.com/JavoXIN](https://github.com/JavoXIN)
-- LinkedIn: [linkedin.com/in/jspiner](https://linkedin.com/in/jspiner)
+- LinkedIn: [linkedin.com/in/JavoXIN](https://linkedin.com/in/JavoXIN)
 
 ```
 엔지니어로 살아가면서, 성공과 아이디어를 추구하는걸 가장 큰 가치로 여기고 있습니다.
 ```
 
-![깃허브](https://github.com/JSpiner/RESUME/raw/master/)
+![깃허브](https://github.com/JavoXIN/RESUME/raw/master/)
 
-## Enginnering Ladders
-[Engineering Ladders](https://medium.com/@ryanparkdev/engineering-ladders%EC%9D%84-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EC%84%B1%EC%9E%A5%EB%B0%A9%ED%96%A5-%EC%B0%BE%EA%B8%B0-c52112b5c34f)로 표현해본 제 스킬은 이렇습니다.
+## MBTI
+[MBTI] MBTI를 표현하면 이렇습니다:
 
-<img src = "https://github.com/JSpiner/RESUME/raw/master/images/engineering_ladders.png" width="480" />
+<img src = "https://github.com/JavoXIN/RESUME/blob/main/java_info_pic/mbti_java.JPG" width="350" />
 
 ## 회사경력
-- [카카오 모빌리티](https://www.kakaomobility.com/) (2021 ~ 현재)
-- [스타일쉐어](https://stylesha.re) (2020 ~ 2021)
-- [리디주식회사](https://www.ridicorp.com/)(2018 ~ 2020)
-- [피알앤디컴퍼니](http://prnd.co.kr)(2017 ~ 2018) 
-- 프리랜서(2014 ~ 2016)
+- [이나인페이(주)](https://www.e9pay.co.kr/) (2022)
+- [WOB(강남역)](https://www.facebook.com/wobkorea/) (2020)
+
 
 ## 단체경력
 - 네이버 부스트캠프 코드 리뷰어(2021)
@@ -50,6 +48,9 @@ If you want to know about me!
 ### Android
 요구사항 구현을 넘어 프로젝트 개선 및 기술적인 도전을 해볼 수 있을 정도의 안드로이드 스킬을 가지고 있습니다.
 - Kotlin, Kotlin DSL
+- Java, Java FX
+
+그리고 추가로 배우고 있습
 - DI : Dagger / Koin
 - Stream : rxJava / coroutine
 - View : Compose, Epoxy, Databinding
