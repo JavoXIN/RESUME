@@ -99,7 +99,7 @@ If you want to know about me!
 - 매출 : ~709,411원/달
 
 
-### luxury webpage
+### "LUXURY" ONLINE MARKET(webpage)
 - 소개: 온라인 쇼핑 서비스
 - 기간: 2021.09 ~ 2021.12
 - 프로젝트 : front-end 개발, add to cart 기능 추가, adding item, main page, user page 개발
