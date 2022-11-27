@@ -105,7 +105,7 @@ If you want to know about me!
 - 프로젝트 : front-end 개발, add to cart 기능 추가, adding item, main page, user page 개발
 
 ### Chat2Bot: RICOLA
-- 소개: 두 개 언어의 문자 형태를 바꾸고 알필 제거 채팅 봇
+- 소개: 두 개 언어의 문자 형태를 바꾸고 악필 제거 채팅 봇
 - 기간: 2022.04 ~ 2022.07
 - 역할: 혼자 개발
 - 관련기술: python, NLP, Telegram Bot, Telegram Messenger
